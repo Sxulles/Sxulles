@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif](https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" title="" alt="CodingGIF" align="center" width="1000%">
 
 <!--
 **Sxulles/Sxulles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
