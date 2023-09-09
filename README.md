@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" title="" alt="CodingGIF" align="center" width="100%">
+<img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" title="" alt="CodingGIF" align="center" width="50%">
 
 <!--
 **Sxulles/Sxulles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
