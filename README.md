@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" title="" alt="CodingGIF" align="center" width="50%">
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" title="" alt="CodingGIF" align="center" width="100%">
 </p>
 
 <p align="center">
